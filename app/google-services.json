@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "133616979929",
+    "firebase_url": "https://goa-adventure-club.firebaseio.com",
+    "project_id": "goa-adventure-club",
+    "storage_bucket": "goa-adventure-club.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133616979929:android:6aa883793d6b1d45",
+        "android_client_info": {
+          "package_name": "tiramisu.com.goaadventureclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133616979929-1e8hlui6r63p5ti9jthh8tns4dvjt6ug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm3ytVQnNHXRHYRE_VNRNepyzvpsrk6pU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

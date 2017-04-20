@@ -3,36 +3,42 @@
 
     <group android:checkableBehavior="single">
         <item
-            android:id="@+id/nav_camera"
-            android:icon="@drawable/ic_menu_camera"
+            android:id="@+id/previoustrips"
+
             android:title="Previous Trips" />
         <item
-            android:id="@+id/nav_gallery"
-            android:icon="@drawable/ic_menu_gallery"
+            android:id="@+id/upcomingtrips"
+
             android:title="Upcoming Trips" />
         <item
-            android:id="@+id/nav_slideshow"
-            android:icon="@drawable/ic_menu_slideshow"
+            android:id="@+id/travellerreviews"
+
             android:title="GAC Traveller Reviews" />
         <item
-            android:id="@+id/nav_manage"
-            android:icon="@drawable/ic_menu_manage"
+            android:id="@+id/hotelreviewsforgoans"
+
             android:title="Restuarent and Hotel Reviews for Goans Across India" />
 
-        <item
 
-            android:icon="@drawable/ic_menu_manage"
+
+        <item
+            android:id="@+id/hotelreviewsforoutsiders"
+
             android:title="Restuarent and Hotel Reviews for Travellers coming to Goa" />
 
         <item
+            android:id="@+id/suggestionforgoantravellers"
 
-            android:icon="@drawable/ic_menu_manage"
             android:title="Restuarent and Hotel Reviews for Travellers coming to Goa" />
 
         <item
+            android:id="@+id/suggestionforoutsidetravellers"
 
-            android:icon="@drawable/ic_menu_manage"
             android:title="Restuarent and Hotel Reviews for Travellers coming to Goa" />
+
+
+
+
     </group>
 
     <item android:title="Communicate">
